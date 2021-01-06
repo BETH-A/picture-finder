@@ -8,7 +8,7 @@ function Footer(){
 
     return(
         <footer>
-            <p>Beth Arnold copyright © {currentYear} </p>
+            <p className="footer">Beth Arnold copyright © {currentYear} </p>
         </footer>
     )
 };
